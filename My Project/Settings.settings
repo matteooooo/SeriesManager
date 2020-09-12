@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TARGET_DIR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">h:\serieTV</Value>
+    </Setting>
+    <Setting Name="SOURCE_DIR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\Downloads\Torrent\Completed\</Value>
+    </Setting>
+    <Setting Name="SUBS_DOWNLOAD_DIR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\matteo\Downloads\</Value>
+    </Setting>
+    <Setting Name="SUBS_WORKING_DIR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\matteo\Downloads\SUBS\</Value>
+    </Setting>
+    <Setting Name="REPORT_FILE_NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">seriesmonitor.shtml</Value>
+    </Setting>
+    <Setting Name="REPORT_FILE_NUM_OF_DAYS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="LOG_FILEMANAGER_SUB_FILENAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">filemanager_subs.log</Value>
+    </Setting>
+    <Setting Name="LOG_FILEMANAGER_MAIN_FILENAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">filemanager_main.log</Value>
+    </Setting>
+    <Setting Name="LOG_MONITOR_FILENAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">monitor_main.log</Value>
+    </Setting>
+    <Setting Name="LOG_RSS_FILENAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">monitor_rss.log</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
